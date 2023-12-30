@@ -12,5 +12,6 @@
       "src": "/(.*)",
       "dest": "app.js"
     }
-  ]
+  ],
+  "installCommand": "npm install && npm install -g pg"
 }
